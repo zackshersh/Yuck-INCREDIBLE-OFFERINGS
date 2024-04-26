@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/Yuck-INCREDIBLE-OFFERINGS/static/css/main.947a1bc3.css",
-    "main.js": "/Yuck-INCREDIBLE-OFFERINGS/static/js/main.afd3adac.js",
+    "main.js": "/Yuck-INCREDIBLE-OFFERINGS/static/js/main.358e02d0.js",
     "static/media/tote-1.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/tote-1.6a0dd53ad65eb234e4d3.jpg",
     "static/media/sweatshirt-3.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/sweatshirt-3.2e0f1509cf336885261a.jpg",
     "static/media/sweatshirt-2.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/sweatshirt-2.f0a1299cf1556080712d.jpg",
     "static/media/tote-3.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/tote-3.c5b4e20872be3cdccf89.jpg",
     "static/media/tote-2.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/tote-2.b030ec7fdc56a4a74d70.jpg",
     "static/media/sweatshirt-1.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/sweatshirt-1.76c8c8be27cd5e708525.jpg",
+    "static/media/sweatshirt-design-1.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/sweatshirt-design-1.81817806327d323eaf09.jpg",
+    "static/media/sweatshirt-design-2.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/sweatshirt-design-2.e3b42dddacbb2232466d.jpg",
     "static/media/PPRightGrotesk-Bold.otf": "/Yuck-INCREDIBLE-OFFERINGS/static/media/PPRightGrotesk-Bold.dd93c71808fe3c5279dd.otf",
     "static/media/PPRightGrotesk-Medium.otf": "/Yuck-INCREDIBLE-OFFERINGS/static/media/PPRightGrotesk-Medium.8df610a0ab6eafbd57b9.otf",
     "static/media/shopping-cart.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/shopping-cart.aee617a9fa4a717066fc.jpg",
     "static/media/yuck-logo.svg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/yuck-logo.e4dba1105a4bcd9efc77d590545b12b9.svg",
     "index.html": "/Yuck-INCREDIBLE-OFFERINGS/index.html",
     "main.947a1bc3.css.map": "/Yuck-INCREDIBLE-OFFERINGS/static/css/main.947a1bc3.css.map",
-    "main.afd3adac.js.map": "/Yuck-INCREDIBLE-OFFERINGS/static/js/main.afd3adac.js.map"
+    "main.358e02d0.js.map": "/Yuck-INCREDIBLE-OFFERINGS/static/js/main.358e02d0.js.map"
   },
   "entrypoints": [
     "static/css/main.947a1bc3.css",
-    "static/js/main.afd3adac.js"
+    "static/js/main.358e02d0.js"
   ]
 }
