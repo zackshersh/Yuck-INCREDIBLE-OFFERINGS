@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Yuck-INCREDIBLE-OFFERINGS/static/css/main.d4e5c106.css",
+    "main.css": "/Yuck-INCREDIBLE-OFFERINGS/static/css/main.947a1bc3.css",
     "main.js": "/Yuck-INCREDIBLE-OFFERINGS/static/js/main.afd3adac.js",
     "static/media/tote-1.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/tote-1.6a0dd53ad65eb234e4d3.jpg",
     "static/media/sweatshirt-3.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/sweatshirt-3.2e0f1509cf336885261a.jpg",
@@ -13,11 +13,11 @@
     "static/media/shopping-cart.jpg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/shopping-cart.aee617a9fa4a717066fc.jpg",
     "static/media/yuck-logo.svg": "/Yuck-INCREDIBLE-OFFERINGS/static/media/yuck-logo.e4dba1105a4bcd9efc77d590545b12b9.svg",
     "index.html": "/Yuck-INCREDIBLE-OFFERINGS/index.html",
-    "main.d4e5c106.css.map": "/Yuck-INCREDIBLE-OFFERINGS/static/css/main.d4e5c106.css.map",
+    "main.947a1bc3.css.map": "/Yuck-INCREDIBLE-OFFERINGS/static/css/main.947a1bc3.css.map",
     "main.afd3adac.js.map": "/Yuck-INCREDIBLE-OFFERINGS/static/js/main.afd3adac.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4e5c106.css",
+    "static/css/main.947a1bc3.css",
     "static/js/main.afd3adac.js"
   ]
 }
